@@ -1,0 +1,54 @@
+body{
+     position: center;
+
+}
+
+div{border-width: 3px;
+    border-color: darkslategrey;
+    border-style: solid;
+    max-width: 500px;
+    margin:auto;
+    position: center;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+H1{
+    font-family: "Book Antiqua", serif;
+    font-size: xx-large;
+    color: darkslategrey;
+    position: center;
+}
+
+p{
+    font-family: "Book Antiqua", serif;
+    font-size: medium;
+    position: center;
+    text-align: left;
+    margin-left: 20px;
+    color: darkslategrey;
+}
+
+H2{
+    font-family: "Book Antiqua", serif;
+    font-size: large;
+    color: darkslategrey;
+position: center;
+}
+
+
+a{
+    width: 50px;
+    position: center;
+}
+img{
+width: 200px;
+    position: center;
+}
+
+ul{
+    text-align: left;
+    margin-left:20px;
+    color: darkslategrey;
+
+}
